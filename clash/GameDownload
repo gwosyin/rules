@@ -1,10 +1,3 @@
-# NAME: GameDownload
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:18:53
-# DOMAIN: 36
-# DOMAIN-SUFFIX: 3
-# TOTAL: 39
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,blizzard.gcdn.cloudn.co.kr
@@ -44,3 +37,19 @@ DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN,cdn-ws.content.steamchina.com
+DOMAIN,dl.delivery.mp.microsoft.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN,trts.baishancdnx.cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn

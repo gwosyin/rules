@@ -1,134 +1,52 @@
-    - 'DOMAIN-KEYWORD,emby,🎬 EMBY'
-    - 'DOMAIN-KEYWORD,odysseyplus,🎬 EMBY'
-    - 'DOMAIN-KEYWORD,emby.wtf,🎬 EMBY'
-    - 'DOMAIN-KEYWORD,jmaooo.com,🎬 EMBY'
-    - 'DOMAIN-KEYWORD,xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,maoxiong.cloud,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.riches.cloud,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,random.ouonet.org,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.milkcat.net,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pornemby.maoxiong.cloud,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,embyclub.maoxiong.cloud,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,cu.poloemby.xyz,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,zzl.poloemby.xyz,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,zf.hk01.77is.top,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,sg.gcx920110.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,hs.gcx920110.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,play.charontv.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.nexitally.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.immtel.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,line.emby.men,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.cjpc.xyz,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.paoche.ooo,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.flowercloud.yt,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.maying.club,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.mdss.cloud,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.ytoo.li,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,embyserver.ga,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.prprcloud.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.nyancat.net,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.plusmedia.site,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby-cf.plusmedia.site,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,jellyfin.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,movie.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,servers.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.ok.edu.hk,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.neko.edu.rs,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1cf.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2cf.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3cf.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,agahk1.jmsooo.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,agasg1.jmsooo.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,agajp1.jmsooo.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,aws.jmsooo.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,ntt1.jmsooo.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,hinet.jmsooo.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,cf1.jmsooo.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pornemby.club,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,hk.pornemby.club,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,us.pornemby.club,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,plusmedia.site,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,mickeycloud.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.mcwy.me,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.neko.edu.rs,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.ok.edu.hk,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.maying.club,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.nexitally.com,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back5.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back4.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back6.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back7.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back4.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back5.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back6.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1back7.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1jp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1jp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1ntt.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1sgp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub1cf.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back4.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back5.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back6.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back7.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back4.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back5.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back6.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2back7.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2jp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2jp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2ntt.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2sgp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub2cf.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back4.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back5.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back6.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back7.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back1.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back2.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back3.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back4.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back5.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back6.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3back7.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3jp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3jp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3ntt.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3sgp.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,pub3cf.emby.wtf,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,servers.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.plusmedia.site,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby-cf.plusmedia.site,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,movie.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,jellyfin.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.xeton.dev,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,emby.cjpc.cc,🎬 EMBY'
-    - 'DOMAIN-SUFFIX,cristiamo.xyz,🎬 EMBY'
-    - 'IP-CIDR,161.97.148.156/24,🎬 EMBY,no-resolve'
-    - 'DOMAIN-SUFFIX,emby.cristiamo.top,🎬 EMBY'
+DOMAIN,emby.enjoyit.eu.org
+DOMAIN,emby.lcloud.wiki
+DOMAIN,notnetflix.cos.cat
+DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
+DOMAIN-SUFFIX,cristiamo.xyz
+DOMAIN-SUFFIX,emby.cjpc.cc
+DOMAIN-SUFFIX,emby.cjpc.tv
+DOMAIN-SUFFIX,emby.cjpc.xyz
+DOMAIN-SUFFIX,emby.cristiamo.top
+DOMAIN-SUFFIX,emby.flowercloud.yt
+DOMAIN-SUFFIX,emby.immtel.com
+DOMAIN-SUFFIX,emby.maying.club
+DOMAIN-SUFFIX,emby.mcwy.me
+DOMAIN-SUFFIX,emby.mdss.cloud
+DOMAIN-SUFFIX,emby.neko.edu.rs
+DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-SUFFIX,emby.nyancat.net
+DOMAIN-SUFFIX,emby.ok.edu.hk
+DOMAIN-SUFFIX,emby.paoche.ooo
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,embyserver.ga
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,jellyfin.asia
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,odysseyplus
+PROCESS-NAME,com.mb.android
